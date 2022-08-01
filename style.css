@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#outer {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    position: relative;
+}
+
+#inner {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    /* inset: 20px 40px; */
+    /* top: 20px; */
+    margin: 20px;
+}
