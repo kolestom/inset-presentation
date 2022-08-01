@@ -16,7 +16,8 @@ body {
     width: 200px;
     height: 200px;
     background-color: aqua;
-    /* inset: 20px 40px; */
-    /* top: 20px; */
-    margin: 20px;
+    inset: 20px 40px;
+    /* top: 20px;
+    margin-top: 20px;
+    padding: 10px; */
 }
